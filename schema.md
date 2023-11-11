@@ -1,5 +1,5 @@
+
 # The taste of success
-A sql project that analyst the sales of a business
 
 ``` sql
 CREATE TABLE sales (
