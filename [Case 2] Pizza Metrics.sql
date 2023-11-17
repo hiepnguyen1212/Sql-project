@@ -1,4 +1,4 @@
-``` sql
+```sql
 
 
 CREATE TABLE runners (
